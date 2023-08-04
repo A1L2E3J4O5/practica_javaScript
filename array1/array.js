@@ -1,13 +1,13 @@
 let myArray = Array.of
 (
-    "sistem of a down" ,
+    21,
     ["Pizza"],
-    Array.of("mago de oz"),
+    Array.of(true),
     "lasaña"
 )
 
 
-console.log(myArray[0],myArray[1],myArray[2],myArray[3],)
+console.log(myArray[0],myArray[1],myArray[2],myArray[3])
 
 
 
