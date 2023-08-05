@@ -1,5 +1,3 @@
-
-
 let uno = prompt("Vamos a sumar  elige un numero");
 let dos = prompt("elige otro numero");
 let uno1 = parseInt(uno);
